@@ -26,6 +26,11 @@ def oyun_basla():
             "sual": "Suyun kimyəvi formulu hansıdır?",
             "variantlar": "A) CO2  B) H2O  C) NaCl  D) O2",
             "cavab": "B"
+        },
+        {
+            "sual": "Leonardo Davinchi kimdir?",
+            "variantlar": "A)Şair  B) Yazar  C) rəssam  D) qitara ifaçısı",
+            "cavab": "B"
         }
     ]
     
